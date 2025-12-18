@@ -1,0 +1,5 @@
+{
+  "name": "加密趋势雷达",
+  "description": "追踪成交额激增、热度爆发的高活力合约交易对，由 Gemini AI 实时搜索驱动。",
+  "requestFramePermissions": []
+}
